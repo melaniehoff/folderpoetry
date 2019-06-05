@@ -18,7 +18,16 @@ Old Habits Die Hard or How to Use a (Mac) Computer
    - Naming files and folders
        - All lowercase
        - No spaces
-   - [Keyboard shortcuts](https://github.com/melaniehoff/folderpoetry/blob/master/README.md#handy-shortcuts)
+
+## Handy Shortcuts to Sharpen Computer Habits
+
+| Keyboard Shortcuts for Mac | Description                 |
+|----------------------------|-----------------------------|
+| cmd + Tab                  | Switch between applications |
+| Cmd + Spacebar             | Spotlight search            |
+| Cmd + S                    | Save file                   |
+| Cmd + Shift + N            | New Folder                  |
+| Cmd + Ctl + Spacebar       | Emoji Keyboard              |
 
 
 # Command line
@@ -45,16 +54,6 @@ From the command line, if we have navigated to the Desktop folder but try to per
 
 
 # Commands, codes, spells
-
-## Handy Shortcuts
-
-| Keyboard Shortcuts for Mac | Description                 |
-|----------------------------|-----------------------------|
-| cmd + Tab                  | Switch between applications |
-| Cmd + Spacebar             | Spotlight search            |
-| Cmd + S                    | Save file                   |
-| Cmd + Shift + N            | New Folder                  |
-| Cmd + Ctl + Spacebar       | Emoji Keyboard              |
 
 ## Bash Commands
 
