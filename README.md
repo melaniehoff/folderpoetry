@@ -79,6 +79,16 @@ Cmd + Ctrl + spacebar = emojis!!!
 
 # Commands, codes, spells
 
+## Handy Shortcuts
+
+| Keyboard Shortcuts for Mac | Description                 |
+|----------------------------|-----------------------------|
+| cmd + Tab                  | Switch between applications |
+| Cmd + Spacebar             | Spotlight search            |
+| Cmd + S                    | Save file                   |
+| Cmd + Shift + N            | New Folder                  |
+| Cmd + Ctl + Spacebar       | Emoji Keyboard              |
+
 ## Bash Commands
 
 | Commands in Bash                        | Description                               | Verb   |
