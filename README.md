@@ -21,7 +21,7 @@ Old Habits Die Hard or How to Use a (Mac) Computer
 
 # Command line
 
-## Download this folder named [house](https://drive.google.com/drive/folders/19U9G9hNCWdiwFbkfna20nlhDOoB8uHHg) and put it in your computer's home folder represented by the little house icon 
+## Download this folder named [house](https://drive.google.com/drive/folders/19U9G9hNCWdiwFbkfna20nlhDOoB8uHHg) and put it in your computer's home folder 
 
 - Everyone receives a folder and puts it in their **home** directory
     - your home directory on a Mac is represented with a house icon in fnder and by the ~ symbol in terminal. It is a folder that is located near the root of your computer's entire system.
