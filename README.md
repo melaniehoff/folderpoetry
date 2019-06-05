@@ -98,7 +98,8 @@ From the command line, if we have navigated to the Desktop folder but try to per
 `alias folderpoetry="for i in {1..2000}; do printf ' ♡ 📂 → ➩ ➪ ➫ ➬ ➭ ➮ '; done;"` → An alias (shortcut) to put in your .bash_profile for automatically run an emoji for loop
 
 
-### Folder Poetry
+
+# Folder Poetry Activity
 
 1. After exploring the house together, consider what other narratives you would like to explore with folder structures?
 Using the worksheet template or a blank piece of paper, take a few minutes to come up with some ideas that are meaningful or interesting to you. 
