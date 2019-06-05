@@ -4,7 +4,7 @@
 ### Coding isn’t something that just happens behind your screen. Coding _can be_ a holistic computer practice, a new relationship you have with your computer & your computer habits. from the way you name your files or organize your folders, to completely changing how you perform routine tasks on your computer such as moving a file.
 
 
-** A New Relationship with Computers **
+**A New Relationship with Computers**
 
 Old Habits Die Hard or How to Use a (Mac) Computer
    - A folder is an organizational regime imposed on your computer. Let's have fun with it.
@@ -21,7 +21,7 @@ Old Habits Die Hard or How to Use a (Mac) Computer
 
 # Command line
 
-## [house folder](https://drive.google.com/drive/folders/19U9G9hNCWdiwFbkfna20nlhDOoB8uHHg)
+## Download this folder named [house](https://drive.google.com/drive/folders/19U9G9hNCWdiwFbkfna20nlhDOoB8uHHg) and put it in your computer's home folder represented by the little house icon 
 
 - Everyone receives a folder and puts it in their **home** directory
     - your home directory on a Mac is represented with a house icon in fnder and by the ~ symbol in terminal. It is a folder that is located near the root of your computer's entire system.
