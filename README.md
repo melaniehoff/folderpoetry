@@ -84,18 +84,18 @@ Cmd + Ctrl + spacebar = emojis!!!
 | Commands in Bash                        | Description                               | Verb   |
 |-----------------------------------------|-------------------------------------------|--------|
 | `cd`                                      | change directory                          | move   |
-| cd ..                                   | change directory one level back           | return |
-| ls                                      | list contents of directory                | look   |
-| pwd                                     | parent working directory                  | where  |
-| open .                                  | open folder with finder                   | open   |
-| open filename.txt                       | opens file in Text Edit                   | open   |
-| cat                                     | print contents                            | print  |
-| touch filename.txt                      | create a file named filename.txt          | create |
-| mkdir foldername/                       | create a folder named filename.txt        | create |
-| rm filename.txt                         | remove file                               | remove |
-| rm foldername/                          | remove folder                             | remove |
-| say "hello, what is poetic computation" | say words out loud                        | speak  |
-| man cd                                  | show the manual for 'cd'. Press q to quit | define |
+| `cd ..`                                   | change directory one level back           | return |
+| `ls`                                      | list contents of directory                | look   |
+| `pwd`                                     | parent working directory                  | where  |
+| `open .`                                  | open folder with finder                   | open   |
+| `open filename.txt`                       | opens file in Text Edit                   | open   |
+| `cat`                                     | print contents                            | print  |
+| `touch filename.txt`                      | create a file named filename.txt          | create |
+| `mkdir foldername/`                       | create a folder named filename.txt        | create |
+| `rm filename.txt`                         | remove file                               | remove |
+| `rm foldername/`                          | remove folder                             | remove |
+| `say "hello, what is poetic computation"` | say words out loud                        | speak  |
+| `man cd`                                  | show the manual for 'cd'. Press q to quit | define |
 
 ## Key Commands
 | Key commands         | Description            | Verb     |
@@ -106,12 +106,12 @@ Cmd + Ctrl + spacebar = emojis!!!
 ### Other useful commands
 | Other useful codes                                                                | Description                                          |
 |-----------------------------------------------------------------------------------|------------------------------------------------------|
-| open ~/.bash_profile                                                              | opens your bash profile in Text Edit                 |
-| source ~/.bash_profile                                                            | reloads your bash profile (for after making changes) |
-| export PS1="🌸 \h ✸ \w ⇢ "                                                        | to change your bash prompt                           |
-| for i in {1..2000}; do printf ' ♡ 📂 → ➩ ➪ ➫ ➬ ➭ ➮  '; done;                      | to make an emoji for loop                            |                   |
-| bash myfile.sh                                                                    | to run a bash file                                   |
-| curl sfpc.io                                                                      | prints the html of a website                         |
+| `open ~/.bash_profile`                                                              | opens your bash profile in Text Edit                 |
+| `source ~/.bash_profile`                                                            | reloads your bash profile (for after making changes) |
+| `export PS1="🌸 \h ✸ \w ⇢ "`                                                        | to change your bash prompt                           |
+| `for i in {1..2000}; do printf ' ♡ 📂 → ➩ ➪ ➫ ➬ ➭ ➮  '; done;`                      | to make an emoji for loop                            |                   |
+| `bash myfile.sh`                                                                    | to run a bash file                                   |
+| `curl sfpc.io`                                                                      | prints the html of a website                         |
 
 
 
