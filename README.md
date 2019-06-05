@@ -67,16 +67,16 @@ Cmd + Ctrl + spacebar = emojis!!!
         - Similarly, when we are inside a house, we are never simultaneously in the kitchen and the bedroom. If we tried to “get into bed” while in the kitchen, we would not be able to. However if we wanted to wash dishes while standing in the kitchen, we would be able to.
         - From the command line, if we have navigated to the Desktop folder but try to perform an action on a file that’s inside your home directory, this would not work. You would have to navigate to the home directory by navigating your file path.
 
-# [Class folder](https://www.notion.so/melaniehoff/Folder-Structure-Narratives-b138497cf2a44e6f9f90c3a78b2bcc01#8a54cef58fe04a2d9d960e5ca6c79b69)
+# [Class folder](https://drive.google.com/drive/folders/1bo9eVYptVyLcFqfWl4JB5E0Czu-ZUIJ-?usp=sharing)
 
-
+## [house folder](https://drive.google.com/drive/folders/19U9G9hNCWdiwFbkfna20nlhDOoB8uHHg)
 
 ## File and Folder Naming
 - All lowercase
 - No spaces
 
 # Commands, codes, spells
-## [Spreadsheet of commands](https://docs.google.com/spreadsheets/d/1vooOk6UczgGD8eLHbizH6kIYJl0DVEpxyo7GEr266KY/edit#gid=0)
+## [Spreadsheet of commands](https://docs.google.com/spreadsheets/d/1VtF7BntVRdvL0azrGw_ymGofPOtIGq1-UESBK2WXK2U/edit#gid=0)
 
 ## Handy Shortcuts
 
@@ -130,3 +130,8 @@ Cmd + Ctrl + spacebar = emojis!!!
 `alias tree="find . -print | sed -e 's;[^/]*/;|;g;s;|; |;g'"` → An alias (shortcut) to put in your .bash_profile for viewing folder tree structure
 
 `alias folderpoetry="for i in {1..2000}; do printf ' ♡ 📂 → ➩ ➪ ➫ ➬ ➭ ➮ '; done;"` → An alias (shortcut) to put in your .bash_profile for automatically run an emoji for loop
+
+
+
+
+## [Folder Poetry Club](https://drive.google.com/drive/folders/1U8IcCOcDpxOcaweu5qovpnPAM1KQU8VN?usp=sharing)
