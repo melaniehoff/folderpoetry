@@ -3,7 +3,8 @@
 
 ### Coding isn’t something that just happens behind your screen. Coding _can be_ a holistic computer practice, a new relationship you have with your computer & your computer habits. from the way you name your files or organize your folders, to completely changing how you perform routine tasks on your computer such as moving a file.
 
-**Activity 2 - A New Relationship with Computers**
+
+** A New Relationship with Computers **
 
 Old Habits Die Hard or How to Use a (Mac) Computer
    - .txt, .html, .css, .js
