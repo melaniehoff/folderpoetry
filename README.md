@@ -25,16 +25,16 @@ Old Habits Die Hard or How to Use a (Mac) Computer
 - Terminal - what is it?
     - It is a way to get text based access to your operating system
     - How to get to it?
-1. Type Cmd + Spacebar to open Quickfinder
-2. type ‘terminal’
+        - Type Cmd + Spacebar to open Quickfinder
+        - type ‘terminal’
 - Bash - what is it?
     - bash is the programming language that we use in the terminal, often one line at a time, but we can also put bash code in a file and run that file
 
 
 
-    - The house as an example folder structure narrative because using the command line is a relational practice. You are never using the command line from a “global” perspective. When you issue commands from the command line, you are doing so, from a particular position within the hierarchy of your computer’s file system.
-        - Similarly, when we are inside a house, we are never simultaneously in the kitchen and the bedroom. If we tried to “get into bed” while in the kitchen, we would not be able to. However if we wanted to wash dishes while standing in the kitchen, we would be able to.
-        - From the command line, if we have navigated to the Desktop folder but try to perform an action on a file that’s inside your home directory, this would not work. You would have to navigate to the home directory by navigating your file path.
+    - The house as an example folder structure narrative because using the command line and computeing in general is a relational practice. You are never using the command line from a “global” perspective. When you issue commands from the command line, you are doing so, from a particular position within the hierarchy of your computer’s file system.
+    - Similarly, when we are inside a house, we are never simultaneously in the kitchen and the bedroom. If we tried to “get into bed” while in the kitchen, we would not be able to. However if we wanted to wash dishes while standing in the kitchen, we would be able to.
+     - From the command line, if we have navigated to the Desktop folder but try to perform an action on a file that’s inside your home directory, this would not work. You would have to navigate to the home directory by navigating your file path.
 
 
 
