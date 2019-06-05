@@ -98,9 +98,10 @@ say "hello, what is poetic computation"|say words out loud|speak
 man cd|show the manual for 'cd'. Press q to quit|define
 
 ## Key Commands
-Key commands		
-Up + Down Arrow keys	scroll through history	scroll
-Tab Key	autocomplete	complete
+| Key commands         |                        |          |
+|----------------------|------------------------|----------|
+| Up + Down Arrow keys | scroll through history | scroll   |
+| Tab Key              | autocomplete           | complete |
 
 ### Other useful commands
 
