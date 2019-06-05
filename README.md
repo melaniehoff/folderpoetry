@@ -94,6 +94,7 @@ Cmd + Ctrl + spacebar = emojis!!!
 | `mkdir foldername/`                       | create a folder named filename.txt        | create |
 | `rm filename.txt`                         | remove file                               | remove |
 | `rm foldername/`                          | remove folder                             | remove |
+| `cp filename.txt filename2.txt`           | copy file .                               | copy   |
 | `say "hello, what is poetic computation"` | say words out loud                        | speak  |
 | `man cd`                                  | show the manual for 'cd'. Press q to quit | define |
 
