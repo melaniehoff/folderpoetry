@@ -43,7 +43,6 @@ From the command line, if we have navigated to the Desktop folder but try to per
 
 
 # Commands, codes, spells
-## [Spreadsheet of commands](https://docs.google.com/spreadsheets/d/1VtF7BntVRdvL0azrGw_ymGofPOtIGq1-UESBK2WXK2U/edit#gid=0)
 
 ## Handy Shortcuts
 
