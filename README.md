@@ -83,7 +83,7 @@ Cmd + Ctrl + spacebar = emojis!!!
 
 | Commands in Bash                        | Description                               | Verb   |
 |-----------------------------------------|-------------------------------------------|--------|
-| cd                                      | change directory                          | move   |
+| `cd`                                      | change directory                          | move   |
 | cd ..                                   | change directory one level back           | return |
 | ls                                      | list contents of directory                | look   |
 | pwd                                     | parent working directory                  | where  |
