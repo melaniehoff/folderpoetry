@@ -98,13 +98,13 @@ Cmd + Ctrl + spacebar = emojis!!!
 | man cd                                  | show the manual for 'cd'. Press q to quit | define |
 
 ## Key Commands
-| Key commands         |                        |          |
+| Key commands         | Description            | Verb     |
 |----------------------|------------------------|----------|
 | Up + Down Arrow keys | scroll through history | scroll   |
 | Tab Key              | autocomplete           | complete |
 
 ### Other useful commands
-| Other useful codes                                                                |                                                                                   |
+| Other useful codes                                                                | Description                                                                       |
 |-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 | open ~/.bash_profile                                                              | opens your bash profile in Text Edit                                              |
 | source ~/.bash_profile                                                            | reloads your bash profile (for after making changes)                              |
