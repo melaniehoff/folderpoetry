@@ -9,7 +9,10 @@ Old Habits Die Hard or How to Use a (Mac) Computer
    - Keyboard shortcuts
    - .txt, .html, .css, .js
    - /../../../../../
+    - ✨ Sentence activity
    - naming files and folders
+    - All lowercase
+    - No spaces
    - emoji keyboard
 
 
@@ -34,9 +37,6 @@ Old Habits Die Hard or How to Use a (Mac) Computer
         - From the command line, if we have navigated to the Desktop folder but try to perform an action on a file that’s inside your home directory, this would not work. You would have to navigate to the home directory by navigating your file path.
 
 
-## File and Folder Naming
-- All lowercase
-- No spaces
 
 # Commands, codes, spells
 ## [Spreadsheet of commands](https://docs.google.com/spreadsheets/d/1VtF7BntVRdvL0azrGw_ymGofPOtIGq1-UESBK2WXK2U/edit#gid=0)
