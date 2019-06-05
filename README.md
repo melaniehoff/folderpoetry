@@ -9,10 +9,10 @@ Old Habits Die Hard or How to Use a (Mac) Computer
    - Keyboard shortcuts
    - .txt, .html, .css, .js
    - /../../../../../
-    - ✨ Sentence activity
+       - ✨ Sentence activity
    - naming files and folders
-    - All lowercase
-    - No spaces
+       - All lowercase
+       - No spaces
    - emoji keyboard
 
 
