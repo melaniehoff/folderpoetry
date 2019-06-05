@@ -124,3 +124,5 @@ Example:
 #### 📂📂📂 [Folder Poetry Club](https://drive.google.com/drive/folders/1U8IcCOcDpxOcaweu5qovpnPAM1KQU8VN?usp=sharing)
 
 5. Soon, you should see your folder poem live on [folderpoetry.club](folderpoetry.club)
+
+6. Club sharing! 
