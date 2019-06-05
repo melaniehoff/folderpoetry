@@ -3,7 +3,8 @@
 ### 📺 [Link to slides](https://docs.google.com/presentation/d/1RhFLgHCYBBiesn9QeVqSda8diaMUhWPo6istZprdxZs/edit?usp=sharing)
  
 
-### Coding isn’t something that just happens behind your screen. Coding _can be_ a holistic computer practice, a new relationship you have with your computer & your computer habits. from the way you name your files or organize your folders, to completely changing how you perform routine tasks on your computer such as moving a file.
+### Coding isn’t something that just happens behind your screen. 
+Coding _can be_ a holistic computer practice, a new relationship you have with your computer & your computer habits. from the way you name your files or organize your folders, to completely changing how you perform routine tasks on your computer such as moving a file.
 
 
 ### This workshop assumes no coding experience and simultaneously takes the position that everyone who interacts with computers in some way is already a programmer.
