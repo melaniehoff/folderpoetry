@@ -25,17 +25,18 @@ Old Habits Die Hard or How to Use a (Mac) Computer
 
 - Everyone receives a folder and puts it in their **home** directory
     - your home directory on a Mac is represented with a house icon in fnder and by the ~ symbol in terminal. It is a folder that is located near the root of your computer's entire system.
-- Terminal - what is it?
+    
+### Terminal
     - It is a way to get text based access to your operating system
     - How to get to it?
         - Type Cmd + Spacebar to open Quickfinder
         - type ‘terminal’
-- Bash - what is it?
+### Bash
     - bash is the programming language that we use in the terminal, often one line at a time, but we can also put bash code in a file and run that file
 
 
 
-    - The house as an example folder structure narrative because using the command line and computeing in general is a relational practice. You are never using the command line from a “global” perspective. When you issue commands from the command line, you are doing so, from a particular position within the hierarchy of your computer’s file system.
+    - The house as an example folder structure poem because **using the command line and computing in general is a relational practice**. You are never using the command line from a “global” perspective. When you issue commands from the command line, you are doing so, from a particular position within the hierarchy of your computer’s file system.
     - Similarly, when we are inside a house, we are never simultaneously in the kitchen and the bedroom. If we tried to “get into bed” while in the kitchen, we would not be able to. However if we wanted to wash dishes while standing in the kitchen, we would be able to.
      - From the command line, if we have navigated to the Desktop folder but try to perform an action on a file that’s inside your home directory, this would not work. You would have to navigate to the home directory by navigating your file path.
 
