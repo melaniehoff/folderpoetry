@@ -104,17 +104,13 @@ Cmd + Ctrl + spacebar = emojis!!!
 | Tab Key              | autocomplete           | complete |
 
 ### Other useful commands
-
-`open ~/.bash_profile` → Edit your bash_profile in Text Edit
-
-`source ~/.bash_profile` → To reload your bash_profile after editing
-
-`export PS1="🌸 \h ✸ \w ⇢ "` → To change your bash prompt
-
-`alias tree="find . -print | sed -e 's;[^/]*/;|;g;s;|; |;g'"` → An alias (shortcut) to put in your .bash_profile for viewing folder tree structure
-
-`for i in {1..2000}; do printf ' ♡ 📂 → ➩ ➪ ➫ ➬ ➭ ➮ '; done;` → A for loop (repeating structure) in bash to print lot's of emoji
-
-`alias folderpoetry="for i in {1..2000}; do printf ' ♡ 📂 → ➩ ➪ ➫ ➬ ➭ ➮ '; done;"` → An alias (shortcut) to put in your .bash_profile for automatically run an emoji for loop
-
-[notes](https://www.notion.so/c8e1b02d53f148f98fee34c19ea2655e)
+| Other useful codes                                                                |                                                                                   |
+|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| open ~/.bash_profile                                                              | opens your bash profile in Text Edit                                              |
+| source ~/.bash_profile                                                            | reloads your bash profile (for after making changes)                              |
+| export PS1="🌸 \h ✸ \w ⇢ "                                                        | to change your bash prompt                                                        |
+| alias tree="find . -print | sed -e 's;[^/]*/;|;g;s;|; |;g'"                       | an alias (shortcut) to put in your bash profile for viewing folder tree structure |
+| for i in {1..2000}; do printf ' ♡ 📂 → ➩ ➪ ➫ ➬ ➭ ➮  '; done;                      | to make an emoji for loop                                                         |
+| alias folderpoetry="for i in {1..2000}; do printf ' ♡ 📂 → ➩ ➪ ➫ ➬ ➭ ➮  '; done;" | an alias for an emoji for loop                                                    |
+| bash myfile.sh                                                                    | to run a bash file                                                                |
+| curl sfpc.io                                                                      | prints the html of a website                                                      |
