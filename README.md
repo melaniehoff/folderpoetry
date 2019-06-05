@@ -109,7 +109,12 @@ Cmd + Ctrl + spacebar = emojis!!!
 | open ~/.bash_profile                                                              | opens your bash profile in Text Edit                 |
 | source ~/.bash_profile                                                            | reloads your bash profile (for after making changes) |
 | export PS1="🌸 \h ✸ \w ⇢ "                                                        | to change your bash prompt                           |
-| for i in {1..2000}; do printf ' ♡ 📂 → ➩ ➪ ➫ ➬ ➭ ➮  '; done;                      | to make an emoji for loop                            |
-| alias folderpoetry="for i in {1..2000}; do printf ' ♡ 📂 → ➩ ➪ ➫ ➬ ➭ ➮  '; done;" | an alias for an emoji for loop                       |
+| for i in {1..2000}; do printf ' ♡ 📂 → ➩ ➪ ➫ ➬ ➭ ➮  '; done;                      | to make an emoji for loop                            |                   |
 | bash myfile.sh                                                                    | to run a bash file                                   |
 | curl sfpc.io                                                                      | prints the html of a website                         |
+
+
+
+`alias tree="find . -print | sed -e 's;[^/]*/;|;g;s;|; |;g'"` → An alias (shortcut) to put in your .bash_profile for viewing folder tree structure
+
+`alias folderpoetry="for i in {1..2000}; do printf ' ♡ 📂 → ➩ ➪ ➫ ➬ ➭ ➮ '; done;"` → An alias (shortcut) to put in your .bash_profile for automatically run an emoji for loop
