@@ -16,9 +16,9 @@
     - Folder/File systems
 - Handy shortcuts
 - Sentence activity
-- house folder activity
-- bash profile
-- Folder Poetry
+- House folder activity
+- for loops & bash profile
+- Folder Poetry Club
 
 **A New Relationship with Computers**
 
