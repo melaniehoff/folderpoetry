@@ -1,11 +1,5 @@
 # Folder Poetry Club
-
-1. Welcome
-2. intros
-3. CoC
-4. SFPC history
-5. what is computer & programmer
-6. 
+ 
 
 ## A Re-Introduction to your Computer
 
@@ -75,9 +69,14 @@ Cmd + Ctrl + spacebar = emojis!!!
 
 # [Class folder](https://www.notion.so/melaniehoff/Folder-Structure-Narratives-b138497cf2a44e6f9f90c3a78b2bcc01#8a54cef58fe04a2d9d960e5ca6c79b69)
 
-# [Spreadsheet of commands](https://docs.google.com/spreadsheets/d/1vooOk6UczgGD8eLHbizH6kIYJl0DVEpxyo7GEr266KY/edit#gid=0)
+
+
+## File and Folder Naming
+- All lowercase
+- No spaces
 
 # Commands, codes, spells
+## [Spreadsheet of commands](https://docs.google.com/spreadsheets/d/1vooOk6UczgGD8eLHbizH6kIYJl0DVEpxyo7GEr266KY/edit#gid=0)
 
 ## Handy Shortcuts
 
