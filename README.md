@@ -1,6 +1,3 @@
-# FolderPoetry.club
-
-
 # Folder Poetry Club
 
 1. Welcome
@@ -82,9 +79,28 @@ Cmd + Ctrl + spacebar = emojis!!!
 
 # Commands, codes, spells
 
-[Bash Commands](https://www.notion.so/c481876e91424c01b6dc722cf8c05c81)
+## Bash Commands
 
-[Key Commands](https://www.notion.so/cbd8ab8100b94017a50623074f1c2130)
+**Commands in Bash**|**Description**|**Verb**
+:-----:|:-----:|:-----:
+cd|change directory|move
+cd ..|change directory one level back|return
+ls|list contents of directory|look
+pwd|parent working directory|where
+open .|open folder with finder|open
+open filename.txt|opens file in Text Edit|open
+cat|print contents|print
+touch filename.txt|create a file named filename.txt|create
+mkdir foldername/|create a folder named filename.txt|create
+rm filename.txt|remove file|remove
+rm foldername/|remove folder|remove
+say "hello, what is poetic computation"|say words out loud|speak
+man cd|show the manual for 'cd'. Press q to quit|define
+
+## Key Commands
+Key commands		
+Up + Down Arrow keys	scroll through history	scroll
+Tab Key	autocomplete	complete
 
 ### Other useful commands
 
