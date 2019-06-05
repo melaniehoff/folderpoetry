@@ -8,6 +8,8 @@
 
 ### This workshop assumes no coding experience and simultaneously takes the position that everyone who interacts with computers in some way is already a programmer.
 
+---
+
 **Agenda**
 - Intros: What is the story
 - Intentions
