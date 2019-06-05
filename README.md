@@ -99,6 +99,9 @@ From the command line, if we have navigated to the Desktop folder but try to per
 
 
 
+
+
+
 # Folder Poetry Activity
 
 1. After exploring the house together, consider what other narratives you would like to explore with folder structures?
