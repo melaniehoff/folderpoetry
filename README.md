@@ -98,6 +98,21 @@ From the command line, if we have navigated to the Desktop folder but try to per
 `alias folderpoetry="for i in {1..2000}; do printf ' ♡ 📂 → ➩ ➪ ➫ ➬ ➭ ➮ '; done;"` → An alias (shortcut) to put in your .bash_profile for automatically run an emoji for loop
 
 
+### Folder Poetry
+
+1. After exploring the house together, consider what other narratives you would like to explore with folder structures?
+Using the worksheet template or a blank piece of paper, take a few minutes to come up with some ideas that are meaningful or interesting to you. 
+
+Example:
+- Fears
+- little-buddies
+
+2. Share with a partner
 
 
+3. Using terminal alone, create the folders and files that make up your folder poem
+
+4. Upload your folder to:
 ## [Folder Poetry Club](https://drive.google.com/drive/folders/1U8IcCOcDpxOcaweu5qovpnPAM1KQU8VN?usp=sharing)
+
+5. Soon, you should see your folder poem live on [folderpoetry.club[(folderpoetry.club)
