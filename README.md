@@ -118,6 +118,7 @@ Example:
 
     - Your files can be .txt, .html, or .sh
     - inside them can be words, ideas, thoughts, feelings, emojis, or bash scripts
+    - to include emoji in your poems, the file must be a .html file with this line included at the top: `<meta charset="utf-8" />`
 
 4. Upload your folder to:
 #### --> --> [Folder Poetry Club](https://drive.google.com/drive/folders/1U8IcCOcDpxOcaweu5qovpnPAM1KQU8VN?usp=sharing)
