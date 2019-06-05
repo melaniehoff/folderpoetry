@@ -8,11 +8,11 @@
 Old Habits Die Hard or How to Use a (Mac) Computer
    - .txt, .html, .css, .js
    - /../../../../../
-       - ✨ Sentence activity
+       - ✨ Sentence activity ✨
    - naming files and folders
        - All lowercase
        - No spaces
-   - [Keyboard shortcuts]()
+   - [Keyboard shortcuts](https://github.com/melaniehoff/folderpoetry/blob/master/README.md#handy-shortcuts)
 
 
 # Command line
