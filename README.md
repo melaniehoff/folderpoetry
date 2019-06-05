@@ -8,6 +8,18 @@
 
 ### This workshop assumes no coding experience and simultaneously takes the position that everyone who interacts with computers in some way is already a programmer.
 
+- Intros: What is the story
+- Intentions
+- Longer Intros
+- History of SFPC
+- A reintroduction to computers & computing
+    - Folder/File systems
+- Handy shortcuts
+- Sentence activity
+- house folder activity
+- bash profile
+- Folder Poetry
+
 **A New Relationship with Computers**
 
 Old Habits Die Hard or How to Use a (Mac) Computer
