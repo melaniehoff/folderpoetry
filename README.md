@@ -7,10 +7,13 @@
 ** A New Relationship with Computers **
 
 Old Habits Die Hard or How to Use a (Mac) Computer
-   - .txt, .html, .css, .js
-   - /../../../../../
+   - A folder is an organizational regime imposed on your computer. Let's have fun with it.
+   - File types
+       - .txt, .html, .css, .js
+   - File paths
+       - /../../../../../
        - ✨ Sentence activity ✨
-   - naming files and folders
+   - Naming files and folders
        - All lowercase
        - No spaces
    - [Keyboard shortcuts](https://github.com/melaniehoff/folderpoetry/blob/master/README.md#handy-shortcuts)
