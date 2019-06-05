@@ -115,6 +115,8 @@ Cmd + Ctrl + spacebar = emojis!!!
 
 
 
+### Alias to put in bash_profile
+
 `alias tree="find . -print | sed -e 's;[^/]*/;|;g;s;|; |;g'"` → An alias (shortcut) to put in your .bash_profile for viewing folder tree structure
 
 `alias folderpoetry="for i in {1..2000}; do printf ' ♡ 📂 → ➩ ➪ ➫ ➬ ➭ ➮ '; done;"` → An alias (shortcut) to put in your .bash_profile for automatically run an emoji for loop
