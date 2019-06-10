@@ -1,5 +1,8 @@
 # Folder Poetry Club 📂 ♡ 📂
 
+Workshop taught by Melanie Hoff, co-organized by the School for Poetic Computation and Detroit Community Technology Project
+[Eventbrite](https://www.eventbrite.com/e/poetic-computation-hands-on-workshop-tickets-61947537753#)
+
 ### 📺 [Link to slides](https://docs.google.com/presentation/d/1RhFLgHCYBBiesn9QeVqSda8diaMUhWPo6istZprdxZs/edit?usp=sharing)
  
 
