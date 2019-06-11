@@ -1,0 +1,8 @@
+what is the command?
+rm foldername/
+
+what does it mean?
+remove folder
+
+what does it do?
+remove

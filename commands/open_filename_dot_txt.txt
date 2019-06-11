@@ -1,0 +1,8 @@
+what is the command?
+open filename.txt
+
+what does it mean?
+Open file in a text editor
+
+what does it do?
+open

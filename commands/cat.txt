@@ -1,0 +1,8 @@
+what is the command?
+cat
+
+what does it mean?
+print contents
+
+what does it do?
+print

@@ -1,0 +1,2 @@
+what is a folder?
+a folder (also referred to as directory) is an organizational regime imposed on your computer used to store and organize files and other folders.

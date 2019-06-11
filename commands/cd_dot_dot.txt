@@ -1,0 +1,8 @@
+what is the command?
+cd ..
+
+what does it mean?
+change directory one level back
+
+what does it do?
+return

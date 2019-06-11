@@ -1,0 +1,8 @@
+what is the command?
+rm filename.txt
+
+what does it mean?
+remove file
+
+what does it do?
+remove

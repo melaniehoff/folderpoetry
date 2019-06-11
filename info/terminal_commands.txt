@@ -1,0 +1,2 @@
+what are terminal commands?
+terminal commands give you the ability to control your computer using command prompts. for example, terminal commands on mac computers are written in a language called bash.

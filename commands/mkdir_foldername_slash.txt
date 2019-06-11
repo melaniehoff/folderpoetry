@@ -1,0 +1,8 @@
+what is the command?
+mkdir foldername/
+
+what does it mean?
+create a folder named foldername
+
+what does it do?
+create

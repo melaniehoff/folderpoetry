@@ -1,0 +1,2 @@
+what is bash?
+bash is the programming language we use in the terminal, often one line at a time, but we can also put bash code in a file and run that file.
