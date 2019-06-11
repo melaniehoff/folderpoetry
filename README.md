@@ -150,10 +150,10 @@ Using the worksheet template or a blank piece of paper in the [zine](assets/pdf/
 4. Upload your folder to: [Folder Poetry Club](https://drive.google.com/drive/folders/1U8IcCOcDpxOcaweu5qovpnPAM1KQU8VN?usp=sharing) 📂 
 5. Soon, you should see your folder poem live on [folderpoetry.club](folderpoetry.club)
 
-## Acknowledgements
+## Full credits
 - Curriculum design and workshop by [Melanie Hoff](https://melanie-hoff.com/)
 - Zine design, illustrations and workshop support by [Neta Bomani](https://netabomani.com)
-- Illustrations and work support by [Taeyoon Choi](http://taeyoonchoi.com)
+- Illustrations and workshop support by [Taeyoon Choi](http://taeyoonchoi.com)
 - Workshop support by [Lauren Gardner](http://poohead.com/)
 - Space and materials provided by the [Detroit Community Technology Project](https://detroitcommunitytech.org/)
 
