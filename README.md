@@ -1,7 +1,7 @@
 Folder Poetry Club 📂 ♡ 📂
 ======
 
-Workshop taught by Melanie Hoff, co-organized by the [School for Poetic Computation](https://sfpc.io) and [Detroit Community Technology Project](https://detroitcommunitytech.org/).
+Workshop taught by [Melanie Hoff](https://melanie-hoff.com/), co-organized by the [School for Poetic Computation](https://sfpc.io) and [Detroit Community Technology Project](https://detroitcommunitytech.org/).
 
 ## Links
 - [Folder Poetry Club website](http://folderpoetry.club) 🔗
@@ -101,7 +101,7 @@ Bash is the programming language that we use in the terminal, often one line at 
 | `man cd`                                  | show the manual for 'cd'. Press q to quit | define |
 
 ## Keyboard Commands
-| Commands         | Description            | Verb     |
+| Command         | Description            | Verb     |
 |----------------------|------------------------|----------|
 | Up + Down Arrow keys | scroll through history | scroll   |
 | Tab Key              | autocomplete           | complete |
@@ -118,11 +118,11 @@ Bash is the programming language that we use in the terminal, often one line at 
 
 ### Alias to put in bash_profile
 
-An alias (shortcut) to put in your .bash_profile for viewing folder tree structure
+An alias (shortcut) to put in your .bash_profile for viewing folder tree structure:
 
 ```alias tree="find . -print | sed -e 's;[^/]*/;|;g;s;|; |;g'"```
 
-An alias (shortcut) to put in your .bash_profile to automatically run an emoji for loop
+An alias to put in your .bash_profile to automatically run an emoji for loop:
 
 ```alias folderpoetry="for i in {1..2000}; do printf ' ♡ 📂 → ➩ ➪ ➫ ➬ ➭ ➮ '; done;"``` 
 
@@ -132,7 +132,9 @@ Download the [house](https://drive.google.com/drive/folders/19U9G9hNCWdiwFbkfna2
 
 ### What is the house?
 The house as an example folder structure poem because **using the command line and computing in general is a relational practice**. You are never using the command line from a “global” perspective. When you issue commands from the command line, you are doing so, from a particular position within the hierarchy of your computer’s file system.
+
 Similarly, when we are inside a house, we are never simultaneously in the kitchen and the bedroom. If we tried to “get into bed” while in the kitchen, we would not be able to. However if we wanted to wash dishes while standing in the kitchen, we would be able to.
+
 From the command line, if we have navigated to the Desktop folder but try to perform an action on a file that’s inside your home directory, this would not work. You would have to navigate to the home folder by navigating your file path.
 
 ### Make your own file path or file tree
