@@ -9,7 +9,7 @@ Workshop taught by [Melanie Hoff](https://melanie-hoff.com/), co-organized by th
 - [Slides](https://docs.google.com/presentation/d/1RhFLgHCYBBiesn9QeVqSda8diaMUhWPo6istZprdxZs/edit?usp=sharing) 📺
 - [Zine PDF](assets/pdf/folder_poetry_zine_pages.pdf) 📖
 
-![A drawing of a blob like character popping out of a folder icon and passing a file icon to an open latop with hands and a smile on it face.](assets/img/folder_poetry_open.png)
+![A drawing of a blob like character popping out of a folder icon and passing a file icon to an open latop with hands and a smile on it face.](_assets/img/folder_poetry_open.png)
  
  ## Disclamier
 This workshop assumes no coding experience and simultaneously takes the position that everyone who interacts with computers in some way is already a programmer.
