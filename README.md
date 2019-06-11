@@ -150,7 +150,9 @@ Using the worksheet template or a blank piece of paper, take a few minutes to co
 
 ## Acknowledgements
 Zine design, illustrations and workshop support by [Neta Bomani](https://netabomani.com)
+
 Illustrations and work support by [Taeyoon Choi](http://taeyoonchoi.com)
+
 Workshop support by [Lauren Gardner](http://poohead.com/)
 
 # ♡ 📂 [folderpoetry.club](folderpoetry.club) 📂♡
