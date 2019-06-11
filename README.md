@@ -55,7 +55,7 @@ bash | is the programming language we use in the terminal, often one line at a t
 - Mind your file path
     - `/../../../../../`
 
-## Handy Shortcuts to Sharpen Computer Habits
+## Handy Shortcuts to sharpen computer habits
 
 | Keyboard Shortcuts for Mac | Description                 |
 |----------------------------|-----------------------------|
@@ -74,7 +74,7 @@ Terminal is a way to get root level, text based access to your operating system.
 
 **How do you access it?**
 - Type `command + spacebar` to open search
-- Type 'terminal' to open the application
+- Type 'terminal' into the search field to open the application
 
 ### Bash
 Bash is the programming language that we use in the terminal, often one line at a time, but we can also put bash code in a file and run that file.
@@ -147,5 +147,10 @@ Using the worksheet template or a blank piece of paper, take a few minutes to co
     - To include emoji icons in your poems, the file must be a `.html` file with the following line included at the top: `<meta charset="utf-8" />`
 4. Upload your folder to: [Folder Poetry Club](https://drive.google.com/drive/folders/1U8IcCOcDpxOcaweu5qovpnPAM1KQU8VN?usp=sharing) 📂 
 5. Soon, you should see your folder poem live on [folderpoetry.club](folderpoetry.club)
+
+## Acknowledgements
+Zine design, illustrations and workshop support by [Neta Bomani](https://netabomani.com)
+Illustrations and work support by [Taeyoon Choi](http://taeyoonchoi.com)
+Workshop support by [Lauren Gardner](http://poohead.com/)
 
 # ♡ 📂 [folderpoetry.club](folderpoetry.club) 📂♡
