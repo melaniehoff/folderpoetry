@@ -15,7 +15,7 @@ Workshop taught by Melanie Hoff, co-organized by the [School for Poetic Computat
 This workshop assumes no coding experience and simultaneously takes the position that everyone who interacts with computers in some way is already a programmer.
 
 ### Coding isn’t something that just happens behind your screen. 
-Coding _can be_ a holistic computer practice, a new relationship you have with your computer & your computer habits. from the way you name your files or organize your folders, to completely changing how you perform routine tasks on your computer such as moving a file.
+Coding _can be_ a holistic computer practice, a new relationship you have with your computer & your computers habits - from the way you name your files or organize your folders, to completely changing how you perform routine tasks on your computer, such as moving a file.
 
 ---
 
@@ -69,6 +69,7 @@ bash | is the programming language we use in the terminal, often one line at a t
 ## Command line activity
 ### Open terminal
 **What is terminal?**
+
 Terminal is a way to get root level, text based access to your operating system. 
 
 **How do you access it?**
@@ -76,7 +77,7 @@ Terminal is a way to get root level, text based access to your operating system.
 - Type 'terminal' to open the application
 
 ### Bash
-Bash is the programming language that we use in the terminal, often one line at a time, but we can also put bash code in a file and run that file
+Bash is the programming language that we use in the terminal, often one line at a time, but we can also put bash code in a file and run that file.
 
 # Commands, codes, spells
 
@@ -108,7 +109,7 @@ Bash is the programming language that we use in the terminal, often one line at 
 ## Other useful code
 | Code                                                        | Description                                          |
 |-----------------------------------------------------------------------------------|------------------------------------------------------|
-| `open ~/.bash_profile`                                                              | opens your bash profile in Text Edit                 |
+| `open ~/.bash_profile`                                                              | opens your bash profile in a text editor                 |
 | `source ~/.bash_profile`                                                            | reloads your bash profile (for after making changes) |
 | `export PS1="🌸 \h ✸ \w ⇢ "`                                                        | to change your bash prompt                           |
 | `for i in {1..2000}; do printf ' ♡ 📂 → ➩ ➪ ➫ ➬ ➭ ➮  '; done;`                      | to make an emoji for loop                            |                   |
@@ -118,9 +119,11 @@ Bash is the programming language that we use in the terminal, often one line at 
 ### Alias to put in bash_profile
 
 An alias (shortcut) to put in your .bash_profile for viewing folder tree structure
+
 ```alias tree="find . -print | sed -e 's;[^/]*/;|;g;s;|; |;g'"```
 
 An alias (shortcut) to put in your .bash_profile to automatically run an emoji for loop
+
 ```alias folderpoetry="for i in {1..2000}; do printf ' ♡ 📂 → ➩ ➪ ➫ ➬ ➭ ➮ '; done;"``` 
 
 ## Folder Poetry Activity
@@ -137,9 +140,9 @@ From the command line, if we have navigated to the Desktop folder but try to per
 Using the worksheet template or a blank piece of paper, take a few minutes to come up with some ideas that are meaningful or interesting to you. For example, [a folder of one's own](http://folderpoetry.club/a/folder/of/ones/own/) and [my fears](http://folderpoetry.club/my-fears/).
 2. Share with a partner
 3. Using terminal alone, create the folders and files that make up your folder poem
-    - Your files can be .txt, .html, or .sh
+    - Your files can be `.txt`, `.html`, or `.sh`
     - The contents of your files can be words, ideas, thoughts, feelings, emojis, or bash scripts
-    - To include emoji icons in your poems, the file must be a .html file with this line included at the top: `<meta charset="utf-8" />`
+    - To include emoji icons in your poems, the file must be a `.html` file with the following line included at the top: `<meta charset="utf-8" />`
 4. Upload your folder to: [Folder Poetry Club](https://drive.google.com/drive/folders/1U8IcCOcDpxOcaweu5qovpnPAM1KQU8VN?usp=sharing) 📂 
 5. Soon, you should see your folder poem live on [folderpoetry.club](folderpoetry.club)
 
