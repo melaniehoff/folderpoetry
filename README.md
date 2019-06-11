@@ -1,4 +1,4 @@
-Folder Poetry Club 📂 ♡ 📂
+♡ 📂 Folder Poetry Club ♡ 📂
 ======
 
 Workshop taught by [Melanie Hoff](https://melanie-hoff.com/), co-organized by the [School for Poetic Computation](https://sfpc.io) and [Detroit Community Technology Project](https://detroitcommunitytech.org/).
@@ -141,7 +141,7 @@ From the command line, if we have navigated to the Desktop folder but try to per
 
 ### Make your own file path or file tree
 1. After exploring the house together, consider what other narratives you would like to explore with folder structures.
-Using the worksheet template or a blank piece of paper, take a few minutes to come up with some ideas that are meaningful or interesting to you. For example, [a folder of one's own](http://folderpoetry.club/a/folder/of/ones/own/) and [my fears](http://folderpoetry.club/my-fears/).
+Using the worksheet template or a blank piece of paper in the [zine](assets/pdf/folder_poetry_zine_pages.pdf), take a few minutes to come up with some ideas that are meaningful or interesting to you. For example, [a folder of one's own](http://folderpoetry.club/a/folder/of/ones/own/) and [my fears](http://folderpoetry.club/my-fears/).
 2. Share with a partner
 3. Using terminal alone, create the folders and files that make up your folder poem
     - Your files can be `.txt`, `.html`, or `.sh`
@@ -151,7 +151,7 @@ Using the worksheet template or a blank piece of paper, take a few minutes to co
 5. Soon, you should see your folder poem live on [folderpoetry.club](folderpoetry.club)
 
 ## Acknowledgements
-- Curriculum design and workshop led by [Melanie Hoff](https://melanie-hoff.com/)
+- Curriculum design and workshop by [Melanie Hoff](https://melanie-hoff.com/)
 - Zine design, illustrations and workshop support by [Neta Bomani](https://netabomani.com)
 - Illustrations and work support by [Taeyoon Choi](http://taeyoonchoi.com)
 - Workshop support by [Lauren Gardner](http://poohead.com/)
