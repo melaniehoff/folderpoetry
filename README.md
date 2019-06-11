@@ -1,4 +1,4 @@
-♡ 📂 Folder Poetry Club ♡ 📂
+♡ 📂 Folder Poetry Club 📂 ♡
 ======
 
 Workshop taught by [Melanie Hoff](https://melanie-hoff.com/), co-organized by the [School for Poetic Computation](https://sfpc.io) and [Detroit Community Technology Project](https://detroitcommunitytech.org/).
