@@ -2,6 +2,7 @@
 ======
 
 Workshop taught by [Melanie Hoff](https://melanie-hoff.com/), co-organized by the [School for Poetic Computation](https://sfpc.io) and [Detroit Community Technology Project](https://detroitcommunitytech.org/).
+Zine by [Neta Bomani](https://netabomani.com) and [Taeyoon Choi](http://taeyoonchoi.com)
 
 ## Links
 - [Folder Poetry Club website](http://folderpoetry.club) 🔗
