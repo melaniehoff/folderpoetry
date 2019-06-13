@@ -157,4 +157,4 @@ Using the worksheet template or a blank piece of paper in the [zine](assets/pdf/
 - Workshop support by [Lauren Gardner](http://poohead.com/)
 - Space and materials provided by the [Detroit Community Technology Project](https://detroitcommunitytech.org/)
 
-# ♡ 📂 [folderpoetry.club](www.folderpoetry.club) 📂 ♡
+# ♡ 📂 [folderpoetry.club](http://www.folderpoetry.club) 📂 ♡
