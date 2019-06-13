@@ -1,0 +1,8 @@
+what is the command?
+open .
+
+what does it mean?
+open folder with a file manager application
+
+what does it do?
+open

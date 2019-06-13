@@ -1,0 +1,8 @@
+what is the command?
+ls
+
+what does it mean?
+list contents of directory
+
+what does it do?
+look

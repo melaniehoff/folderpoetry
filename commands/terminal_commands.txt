@@ -1,0 +1,2 @@
+what are terminal commands?
+terminal commands give you the ability to control your computer using command prompts. go to the next page to start learning some basic commands!

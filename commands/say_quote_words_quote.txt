@@ -1,0 +1,8 @@
+what is the command?
+say "words"
+
+what does it mean?
+say words out loud
+
+what does it do?
+speak

@@ -1,0 +1,8 @@
+what is the command?
+touch filename.txt
+
+what does it mean?
+create a file named filename.txt
+
+what does it do?
+create

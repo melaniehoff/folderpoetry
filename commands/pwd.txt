@@ -1,0 +1,8 @@
+what is the command?
+pwd
+
+what does it mean?
+parent working directory
+
+what does it do?
+locate

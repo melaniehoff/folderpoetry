@@ -1,0 +1,6 @@
+what is terminal?
+a way to get text based access to your operating system
+
+how to access it?
+1. type command + spacebar to open search
+2. type 'terminal'
