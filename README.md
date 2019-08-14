@@ -103,7 +103,7 @@ Bash is the programming language that we use in the terminal, often one line at 
 | `say "hello, what is poetic computation"` | say words out loud    | speak  |
 | `man cd`                                  | show the manual for 'cd'. Press q to quit | define |
 
-## Keyboard Commands
+## Keyboard Terminal Commands
 | Command         | Description            | Verb     |
 |----------------------|------------------------|----------|
 | Up + Down Arrow keys | scroll through history | scroll   |
