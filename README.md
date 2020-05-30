@@ -1,6 +1,8 @@
 ♡ 📂 Folder Poetry Club 📂 ♡
 ======
 
+### 👀!! Check out more recent writing and tutorials on this topic [here](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry) & [here](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry/blob/master/two-day-workshop.md).
+
 Workshop taught by [Melanie Hoff](https://melanie-hoff.com/), co-organized by the [School for Poetic Computation](https://sfpc.io) and [Detroit Community Technology Project](https://detroitcommunitytech.org/).
 Zine by [Neta Bomani](https://netabomani.com) and [Taeyoon Choi](http://taeyoonchoi.com)
 
